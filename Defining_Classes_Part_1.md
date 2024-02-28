@@ -1,4 +1,4 @@
-Homework: Defining Classes - Part 1
+Defining Classes - Part 1
 ===================================
 
 ### Problem 1. Define class
